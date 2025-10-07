@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Parfait Aboyna
 
 🎓 MSc in Computer Science 
-🛠️ Junior Backend Developer | Junior Data Scientist (R) | Junior Project Manager  
+🛠️ Junior Backend Developer | Junior Data Scientist (R & Python) | Junior Project Manager  
 
 ---
 
